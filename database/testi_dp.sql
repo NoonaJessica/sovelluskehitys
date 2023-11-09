@@ -69,6 +69,10 @@ INSERT INTO FavoriteMeals VALUES (1, 'Perunalaatikko');
 UPDATE Customers SET address = 'pöllölaakso' WHERE customer_id = 1;
 
 
+
+
+
+
 -- Select all columns from the MediaItems table:
 SELECT * FROM MediaItems;
 
